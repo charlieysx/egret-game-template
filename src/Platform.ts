@@ -1,0 +1,8 @@
+declare interface Window {
+
+}
+
+
+
+
+
